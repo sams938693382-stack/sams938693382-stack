@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there Xursandbek👋
 
 <!--
 **sams938693382-stack/sams938693382-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
