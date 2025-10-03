@@ -1,5 +1,15 @@
 ## Hi there Xursandbek👋
-
+<h3>Biz hozir barchamiz gitgubda faol ishlamoqdamiz barcha o'quvchilar bilan</h3>
+<h4>
+  Mening IT ko'nikmalarim
+</h4>
+<ol>
+  <li>HTML</li>
+  <li>css</li>
+  <li>javaScript</li>
+  <li>python</li>
+</ol>
+<img >
 <!--
 **sams938693382-stack/sams938693382-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
