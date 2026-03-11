@@ -12,6 +12,10 @@
  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
 <h1 align="center" style="color:#39FF14; text-shadow: 0 0 8px #39FF14, 0 0 20px #39FF14;">
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F260&center=true&vCenter=true&width=820&lines=Python+Developer;Al-xorazmiy+vorislari" />
+</p>
+
 
 ### Languages 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
@@ -33,9 +37,6 @@
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F260&center=true&vCenter=true&width=820&lines=Python+Developer;Al-xorazmiy+vorislari" />
-</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,mongodb,py,go,git,github,vscode,docker,kubernetes,aws,pnpm,mysql,postgres,jenkins,kafka,nginx,swift,apple,ps,ai&perline=14" width="100%" />
