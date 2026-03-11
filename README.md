@@ -1,17 +1,5 @@
-##  Hi there Xursandbek👋
-<h3>Biz hozir barchamiz gitgubda faol ishlamoqdamiz barcha o'quvchilar bilan</h3>
-<h4>
-  Mening IT ko'nikmalarim
-</h4>
-<ol>
-  <li>HTML</li>
-  <li>css</li>
-  <li>javaScript</li>
-  <li>python</li>
-</ol>
-<img >
-<!--
-**sams938693382-stack/sams938693382-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  I'm O'ktamboyev Xursandbek Bunyod ug'li 👋
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F260&center=true&vCenter=true&width=820&lines=Hi+thie;I+am Asadbek;Ro'ziboyev;Umirbek+o'g'li" />
 </p>
@@ -23,19 +11,24 @@
 
  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
 <h1 align="center" style="color:#39FF14; text-shadow: 0 0 8px #39FF14, 0 0 20px #39FF14;">
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F260&center=true&vCenter=true&width=820&lines=Python+Developer;Al-xorazmiy+vorislari+IT+Mentor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F260&center=true&vCenter=true&width=820&lines=Python+Developer;Al-xorazmiy+vorislari" />
 </p>
 
+<h2 align="center">🛠 Tech Arsenal</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,mongodb,py,go,git,github,vscode,docker,kubernetes,aws,pnpm,mysql,postgres,jenkins,kafka,nginx,swift,apple,ps,ai&perline=14" width="100%" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<div align="center">
+
+## 📊 GitHub Analytics
+</div>
+
+<p align="center">
+  <img src="https://github-rea
