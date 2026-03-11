@@ -1,4 +1,4 @@
-## Hi there Xursandbek👋
+##                   Hi there Xursandbek👋
 <h3>Biz hozir barchamiz gitgubda faol ishlamoqdamiz barcha o'quvchilar bilan</h3>
 <h4>
   Mening IT ko'nikmalarim
