@@ -54,7 +54,7 @@
 
 <div display="flex">
   <p>
-    <img width="55%" align="top" src="https://github-readme-stats.vercel.app/api?username=xursanbek&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" />
+    <img width="55%" align="top" src="https://github-readme-stats.vercel.app/api?username=BunyodbekNasriddinov&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" />
     <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunyodbekNasriddinov&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark"/>
   </p>
 </div>
