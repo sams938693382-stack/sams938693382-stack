@@ -52,7 +52,19 @@
 <p align="center">
   <img src="https://github-rea
 
- <picture>
+
+
+  <div display="flex">
+  <p>
+    <img width="55%" align="top" src="https://github-readme-stats.vercel.app/api?username=BunyodbekNasriddinov&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" />
+    <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunyodbekNasriddinov&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark"/>
+  </p>
+</div>
+
+![Snake animation](https://github.com/BunyodbekNasriddinov/BunyodbekNasriddinov/blob/output/github-contribution-grid-snake-dark.svg)
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BunyodbekNasriddinov/BunyodbekNasriddinov/blob/output/github-contribution-grid-snake-dark.svg" />
-</picture> 
-  
+</picture>
+
+
