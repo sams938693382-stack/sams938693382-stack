@@ -4,8 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F260&center=true&vCenter=true&width=820&lines=Hi+thie;I+am Asadbek;Ro'ziboyev;Umirbek+o'g'li" />
 </p>
 
-
-
+.
 
  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
 <p align="center">
