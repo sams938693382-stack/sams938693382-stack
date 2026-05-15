@@ -1,64 +1,66 @@
-<!-- HEADER AREA -->
+<!-- CYBERPUNK TERMINAL HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=250&color=00F260&text=O'ktamboyev%20Xursandbek&fontSize=45&fontColor=000000&animation=fadeIn&fontAlignY=45"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=000000&text=%5B+SYSTEM+INITIALIZED+%5D&fontSize=35&fontColor=39FF14&fontAlignY=40"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=🚀+Welcome+to+My+Digital+Universe;💻+Python+Developer+%7C+AI+%26+LLM+Engineer;🎓+Al-Xorazmiy+Vorislari+Darslari+Talabasi;🔥+Crafting+High-Performance+3D+and+AI+Solutions..." />
-</p>
+<div align="center">
+  <h1 style="color:#39FF14; text-shadow: 0 0 10px #39FF14, 0 0 20px #39FF14; font-family: 'Fira Code', monospace;">
+    ⚡ O'KTAMBOYEV XURSANDBEK ⚡
+  </h1>
+  <p style="color: #888; font-style: italic;">// Executing Al-Xorazmiy DNA... Status: Advanced Learner</p>
+</div>
 
 <p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&duration=2000&pause=500&color=00FF2B&center=true&vCenter=true&width=900&lines=%E2%9E%A4+root%40xursandbek%3A~%24+init+skills%E2%80%A6;%E2%9E%A4+Core%3A+Python+%7C+AI+Agent+Orchestration;%E2%9E%A4+Status%3A+Building+High-Fidelity+3D+Systems;%E2%9E%A4+Mission%3A+Automate+Everything." />
 </p>
+
+<!-- MATRIX LINE SEPARATOR -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px">
+</p>
+
+<!-- CYBER MATRIX DASHBOARD -->
+## 📊 SYSTEM STATUS & DIAGNOSTICS
+
+<div align="center">
+  <table border="0" style="background-color: #0d1117; border-collapse: collapse;">
+    <tr>
+      <!-- Kiber Statstika -->
+      <td width="50%" align="center" style="border: 2px solid #39FF14; box-shadow: 0 0 15px #39FF14; padding: 10px;">
+        <code style="color: #39FF14;">[ CORE_ANALYTICS ]</code><br/><br/>
+        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=matrix" width="100%"/>
+      </td>
+      <!-- Kiber Tillar -->
+      <td width="50%" align="center" style="border: 2px solid #00F260; box-shadow: 0 0 15px #00F260; padding: 10px;">
+        <code style="color: #00F260;">[ LANGUAGE_SPECTRUM ]</code><br/><br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=matrix" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
 
 <p align="center">
-  <img src="https://komarev.com/badge/counter/visitors.svg?username=YOUR_GITHUB_USERNAME&color=00F260&style=flat-square&label=PROFILE+VIEWS" alt="Visitors Counter" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=matrix&hide_border=true" width="100%" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px">
-
-<!-- INTERACTIVE 3D SKILL CUBE & INFO -->
-## 🪐 Cosmos of a Developer
-
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>🚀 About My Journey</h3>
-      <ul>
-        <li>🧠 <b>Core Focus:</b> Advanced AI agents, workflow automation, and LLM orchestration (CrewAI, LangGraph).</li>
-        <li>🎮 <b>3D Simulation:</b> Designing high-fidelity 3D graphics and immersive core logic in Python using <i>Ursina Engine</i>.</li>
-        <li>📚 <b>Academic Path:</b> Deepening computer science roots through the prestigious <i>"Vorislar darslari"</i> curriculum.</li>
-        <li>⚙️ <b>Philosophy:</b> "Write clean code, automate the boring stuff, build the future."</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <!-- Hech kimda yo'q aylanuvchi 3D Skill Kubik -->
-      <img src="https://skillicons.dev/icons?i=py,js,cpp,django,react,postgres,docker,git&perline=3" alt="Tech Cube" />
-    </td>
-  </tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px">
-
-<!-- PREMIUM TROPHIES (ACHIEVEMENTS) -->
-## 🏆 GitHub Trophies & Achievements
+<!-- MATRIX LINE SEPARATOR -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=false" width="100%" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px">
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px">
+<!-- ARCHITECTURE & SKILL GRID -->
+## 🛠️ CYBERNETIC TECH STACK MATRIX
 
-<!-- DEEPER TECH STACK MATRIX -->
-## 🛠️ Supercharged Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,cpp,django,react,nodejs,postgres,mongodb,mysql,docker,git,github,vscode,html,css,tailwind,svg,linux&perline=9" />
+</div>
 
-```json
-{
-  "Languages": ["Python (Expert)", "JavaScript (ES6+)", "C++ (Data Structures)"],
-  "AI_ML_Ecosystem": ["TensorFlow", "PyTorch", "OpenCV", "Neural Networks"],
-  "LLM_Orchestration": ["CrewAI (Multi-Agent)", "LangChain", "LangGraph agents"],
-  "Web_Backend": ["Django Framework", "Node.js", "Express.js", "RESTful APIs"],
-  "Data_Architectures": ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-  "DevOps_Tools": ["Docker Containers", "Git / GitHub Actions", "Linux Environment"]
-}
+<br/>
+
+```diff
++ [STABLE]   Languages     :: Python / JavaScript / C++
++ [ACTIVE]   AI & LLM      :: CrewAI / LangChain / LangGraph / Neural Networks
++ [BUILDING] 3D Graphics   :: Ursina Engine / Custom 3D Physics & Logic
++ [DATA]     Databases     :: PostgreSQL / MongoDB / MySQL / Redis
