@@ -40,3 +40,18 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sams938693382-stack&bg_color=1a1b27&color=00ff66&line=00e5ff&point=7000ff&area=true&hide_border=true" width="100%" />
 </p>
+---
+
+### 🕹️ SYSTEM ARCADE: PACMAN MATRIX
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sams938693382-stack&bg_color=0d1117&color=00ff66&line=00e5ff&point=7000ff&area=true&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=%E2%80%A2%20%E2%80%A2%20%E2%80%A2%20%F0%9F%90%BB%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%F0%9F%91%BB%20%F0%9F%91%BB%20%F0%9F%91%BB&fontSize=40&fontColor=ffeb3b&animation=blinking" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://platane.github.io/snk/cards/github-contribution-grid-snake.svg" alt="Snake/Pacman Game" width="100%" />
+</p>
