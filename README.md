@@ -1,77 +1,42 @@
-```md id="xursandbekfullgithub"
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Xursandbek%20O'ktamboyev&fontSize=45&fontColor=00F7FF&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,50:00e5ff,100:7000ff&height=240&section=header&text=XURSANDBEK&fontSize=70&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+Developer;Blockchain+Engineer;Web3+Builder;Python+Backend+Developer"/>
-</p>
-
----
-
-<h2 align="center">⚡ Languages & Tools ⚡</h2>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<img src="https://skillicons.dev/icons?i=html" />
-
-<img src="https://skillicons.dev/icons?i=css" />
-
-<img src="https://skillicons.dev/icons?i=javascript" />
-
-<img src="https://skillicons.dev/icons?i=cpp" />
-
-<img src="https://skillicons.dev/icons?i=react" />
-
-<img src="https://skillicons.dev/icons?i=nodejs" />
-
-<img src="https://skillicons.dev/icons?i=mongodb" />
-
-<img src="https://skillicons.dev/icons?i=git" />
-
-<img src="https://skillicons.dev/icons?i=github" />
-
-<img src="https://skillicons.dev/icons?i=vscode" />
-
-<img src="https://skillicons.dev/icons?i=linux" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00FF7F&center=true&vCenter=true&width=500&lines=PYTHON+DEVELOPER;3D+GAME+DEV;FULL-STACK+ENGINEER" />
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
+### 🌐 CONNECT WITH THE TERMINAL
+> `STATUS: ACTIVE` | 🚀 Full-stack, 3D Grafika va AI tizimlar ustida ishlaydigan dasturchi muhitiga xush kelibsiz.
+
+---
+
+### 🛠️ TECH STACK (TOP 10 LOGOS)
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,mongodb,threejs,linux&theme=dark" />
+  </a>
 </p>
 
 ---
 
+### 📊 CORE TELEMETRY & STATS
+
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sams938693382-stack&show_icons=true&theme=tokyonight&locale=en&hide_border=true&order=1" alt="Xursandbek's GitHub Stats" />
+</p>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sams938693382-stack&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-<h2 align="center">👾 Contribution Snake 👾</h2>
+### 📈 ACTIVITY MATRIX
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sams938693382-stack&bg_color=1a1b27&color=00ff66&line=00e5ff&point=7000ff&area=true&hide_border=true" width="100%" />
 </p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-</p>
-
-```
